@@ -1,0 +1,5 @@
+time,weather,temp,company,humidity,wind,goes
+morning,sunny,wam,yes,mild,stong,yes
+evening,rainy,cold,no,mild,normal,no
+morning,sunny,moderate,yes,normal,normal,yes
+evening,sunny,cold,yes,high,stong,yes
